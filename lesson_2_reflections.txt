@@ -9,3 +9,8 @@ The stating area is tracked by git and allows you to follow the changes you will
 How can you use the staging area to make sure you have one commit per logical change?
 
 You can review the changes before committing any actions by using git diff commands
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Trying experimental versions or adding side features are scenarios when it's convenient to use branches. Branches allow to maintain these supplementary versions without affecting the main version of the app.
+ 
