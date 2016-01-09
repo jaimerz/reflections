@@ -13,4 +13,7 @@ You can review the changes before committing any actions by using git diff comma
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Trying experimental versions or adding side features are scenarios when it's convenient to use branches. Branches allow to maintain these supplementary versions without affecting the main version of the app.
- 
+
+How do the diagrams help you visualize the branch structure?
+
+They allow you to assess reachability with ease
