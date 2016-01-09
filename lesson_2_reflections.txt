@@ -17,3 +17,7 @@ Trying experimental versions or adding side features are scenarios when it's con
 How do the diagrams help you visualize the branch structure?
 
 They allow you to assess reachability with ease
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+All the changes will be marged into one single branch with inherited its features from both parent branches. Diagrams are used to make it easier to track changes in a logical manner.
