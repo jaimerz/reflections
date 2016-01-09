@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A .git directory is created. You need to run the command git init to do it
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The stating area is tracked by git and allows you to follow the changes you will add to your commit and will offer relevant output
