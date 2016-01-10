@@ -21,3 +21,7 @@ They allow you to assess reachability with ease
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 All the changes will be marged into one single branch with inherited its features from both parent branches. Diagrams are used to make it easier to track changes in a logical manner.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Git's merging is much more convenient since it will not merge conflicting code that will very likely result in bugs and will prompt the user to resolve the conlict instead in order to ensure the sanity of the code.
