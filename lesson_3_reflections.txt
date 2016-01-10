@@ -2,3 +2,7 @@ When would you like to create a remote repository rather than keeping all your w
 
 When working on team project with remote colaborators
 
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+One scenario is that my remote repository might contain public information that I do not want to make accessible to the public yet
+
