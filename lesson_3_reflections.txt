@@ -6,3 +6,6 @@ Why might you want to always pull changes manually rather than having Git automa
 
 One scenario is that my remote repository might contain public information that I do not want to make accessible to the public yet
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A clone is a copy from someone else's repository, a fork is a github's remote clone of another user's repository, and a branch is a label placed on commits with the purpose of doing side work without affecting the project's main commit, such as for collaborative projects or adding new features
