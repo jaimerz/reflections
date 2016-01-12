@@ -17,3 +17,7 @@ Having a local copy of the last know state of the remote allows for fast-merges 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Synchronization across all remote collaborators would be harder.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+It's better to make changes in a separate branch when working on side projects, when attempting new changes and when working collaboratively, on the other hand it's better to make changes directly in master when the new code has been tested and is sure to not harm the main project.
